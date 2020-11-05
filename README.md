@@ -1,9 +1,10 @@
 "# blog-system-in-php-mysql"
 
+Blog System in PHP MySQL Free Code
+==================================
 
 
-
-Youtube Tutorial : 
+Youtube Tutorial : https://youtu.be/cvxXUshBXXE
 
 Youtube Channel : https://www.youtube.com/channel/UC2Q4oWfoMQzi6AES8Vb2vQw?view_as=subscriber
 
