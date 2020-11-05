@@ -1,0 +1,50 @@
+body{
+	background-color: #e8cce5;
+}
+
+.main{
+	margin-top: -32px;
+}
+
+.categorymain{
+	background-color: #e8cce5;
+	margin-top: -87px;
+}
+
+.navbar{
+	background-color: #e8cce5;
+}
+
+.nav-link , .navbar-brand{
+	color:black;
+	font-weight: bold;
+}
+
+.btn{
+	color:black;
+	border-color:black;
+}
+
+.jumbotron{
+	background-image: url("../bg/head.jpg");
+	color: white;
+}
+
+.card-columns{
+	padding:25px 0px 0px 28px;
+}
+
+
+.card-img-top{
+	height:160px;
+}
+
+.btn-info{
+	margin-bottom: 25px;
+}
+
+.btn-dark{
+	color:white;
+	margin-right:20px;
+}
+
